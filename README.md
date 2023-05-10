@@ -19,7 +19,7 @@ Well-versed in various testing types and SDLC methodologies?
 
 Creating over  200 test cases and contributing to reducing customer support workload by 35%? <h4>
 
-<h4 span style= "font-style:Italic"> You are with the right person!<h4 span style= "font-style:Italic">
+<h4> <span style= "font-style:Italic"> You are with the right person!<h4> <span style= "font-style:Italic">
 
  
 ## Test Documentation 
