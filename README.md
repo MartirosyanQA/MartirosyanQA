@@ -19,12 +19,22 @@ Well-versed in various testing types and SDLC methodologies?
 
 Creating over  200 test cases and contributing to reducing customer support workload by 35%? <h4>
 
-<h4> <span style= "font-style:Italic"> You are with the right person!<h4> <span style= "font-style:Italic">
+<h4> You are with the right person! <h4>
 
- 
+
 ## Test Documentation 
 
 ## Languages and Tools
-![Black testing]()
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=blue)
+![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+![SQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
+![Black](https://img.shields.io/badge/-Static_Testing-090909?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
+![Genymotion](https://img.shields.io/badge/-Genymotion-090909?style=for-the-badge&logo=genymotion)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![English](https://img.shields.io/badge/-English_B2-090909?style=for-the-badge)
 
 Follow Me
