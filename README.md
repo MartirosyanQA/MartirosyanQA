@@ -31,10 +31,12 @@ Creating over  200 test cases and contributing to reducing customer support work
 ![SQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome)
 ![Black](https://img.shields.io/badge/-Static_Testing-090909?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
 ![Genymotion](https://img.shields.io/badge/-Genymotion-090909?style=for-the-badge&logo=genymotion)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![English](https://img.shields.io/badge/-English_B2-090909?style=for-the-badge)
+![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=dbeaver)
 
 Follow Me
