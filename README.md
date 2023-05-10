@@ -8,8 +8,6 @@
  
  <p> <p
 
- <p> <p
- 
  <h4>
  With a focus on manual web and mobile testing?  
 
