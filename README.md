@@ -23,6 +23,10 @@ Creating over  200 test cases and contributing to reducing customer support work
 
 
 ## Test Documentation 
+- [Test Design](https://drive.google.com/file/d/1GWHGeFHa8JG36Djsa0asz25LASiOyrdp/view?usp=sharing
+)
+- [Test Cases](https://drive.google.com/drive/folders/1C-YXIW9-mCjjH98Bd21gOsA-gr1RFmEu?usp=sharing
+)
 
 ## Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=blue)
