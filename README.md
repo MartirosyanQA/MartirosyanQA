@@ -43,6 +43,10 @@ Creating over  200 test cases and contributing to reducing customer support work
 ![English](https://img.shields.io/badge/-English_B2-090909?style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=dbeaver)
 
+## My CV
+- [Link to my CV](https://docs.google.com/document/d/16Rww3vBZJIsgbXOdXnTqRdXrvec61r11We5ITiJXXXU/edit?usp=sharing
+)
+
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mariam-martirosyan-053247276
 )
